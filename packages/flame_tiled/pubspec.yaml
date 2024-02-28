@@ -17,7 +17,8 @@ dependencies:
   flutter:
     sdk: flutter
   meta: ^1.9.1
-  tiled: ">=0.10.0 <0.11.0"
+  tiled:
+    git: https://github.com/codde-pi/tiled.dart.git
   xml: ^6.3.0
 
 dev_dependencies:
